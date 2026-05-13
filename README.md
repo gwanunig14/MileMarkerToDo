@@ -10,6 +10,8 @@ Pushnotifications are optional and customizable in 5 minute increments.
 
 Tasks are completable, and past due items are checked on.
 
+Dark aesthetic was chosen from example designs. I opted for the color fade because that looks cool, then simply asked AI for colors that complimented the background view.
+
 ## Features
 
 - **Dual List System**
